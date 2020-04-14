@@ -1,1 +1,11 @@
-{"ID":11276,"barcode":"GMC-000096345", "containerPath":"ANC/RE/15/07/B","keywords":["raw","cuttings","washed"]}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

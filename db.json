@@ -4,6 +4,17 @@
     "ID": 11276,
     "barcode": "GMC-000096345",
     "boxNumber": "192"
-  }
+  },
+      {
+    "ID": 1,
+    "barcode": "GMC-1",
+    "boxNumber": "1"
+  },
+    
+  {
+    "ID": 2,
+    "barcode": "GMC-2",
+    "boxNumber": "2"
+  },
     ]
 }
